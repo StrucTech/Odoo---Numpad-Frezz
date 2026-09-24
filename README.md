@@ -48,5 +48,5 @@ POS Barcode Numpad Fix v12: loaded
 
 ## Compatibility
 
-- Odoo 19.0 (Community and Enterprise)
+- Odoo 19.0
 - Tested with `pos_restaurant`
